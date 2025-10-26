@@ -1,6 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://cev8l8rn1bvqw"]
-
-[ext_resource type="Script" path="res://Calculator.gd" id="1_evsh4"]
-
-[node name="Calculator" type="Node"]
-script = ExtResource("1_evsh4")
